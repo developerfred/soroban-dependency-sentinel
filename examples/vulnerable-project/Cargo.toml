@@ -5,4 +5,4 @@ edition = "2021"
 
 [dependencies]
 # Pinned to a version affected by RUSTSEC-2020-0071.
-time = "=0.1.44"
+time = "=0.2.0"
